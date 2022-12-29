@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sahitya2304
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java EE
 - 💞️ I’m looking to collaborate on Java Project
 - 📫 How to reach me priyaranjanbigrahraj@gmail.com
 
