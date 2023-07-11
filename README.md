@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Sahitya2304
 - 🌱 I’m currently learning Java EE
 - 💞️ I’m looking to collaborate on Java Project
+- ❓ Ask me about python & opensource
+- 😊 Pronouns: He/Him
 - 📫 How to reach me priyaranjanbigrahraj@gmail.com
 
 <!---
